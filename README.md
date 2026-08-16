@@ -1,2 +1,2 @@
 # Developer-Productivity-Analytics
-Core question: Do developers have a "prime coding hour", and what factors are associated with productive work sessions?
+This project is designed as an active examination of my understanding of  Python fundamentals, visualization, linear algebra, descriptive statistics, probability, and hypothesis testing in one coherent story.
